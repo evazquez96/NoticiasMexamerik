@@ -25,6 +25,11 @@
             "Titulo":"Seguridad y tecnologia",
             "Descripcion": "Desde su fundación se ha invertido en tecnología de punta, así como en la capacitación de nuestro personal.",
             "Fecha":"2018/05/22"
+        },
+        {
+            "Titulo":"Noticia inovadora",
+            "Descripcion": "Se a creado una nueva noticia en Mexamerik.",
+            "Fecha":"2018/05/22"
         }
     ]
     
