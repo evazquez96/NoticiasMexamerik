@@ -1,0 +1,31 @@
+{
+    "noticias":[
+        
+        {
+            "Titulo":"Adquisicion de unidades",
+            "Descripcion": "Adquisición de nuevas unidades",
+            "Fecha":"2018/05/22"
+        },
+        {
+            "Titulo":"Nueva vestimenta",
+            "Descripcion": "Se tendra una nueva vestimenta en la empresa",
+            "Fecha":"2018/05/22"
+        },
+        {
+            "Titulo":"Aniversario de la empresa",
+            "Descripcion": "Hoy es aniversario de nuestra empresa",
+            "Fecha":"2018/05/22"
+        },
+        {
+            "Titulo":"Seguridad y tecnologia",
+            "Descripcion": "Desde su fundación se ha invertido en tecnología de punta, así como en la capacitación de nuestro personal.",
+            "Fecha":"2018/05/22"
+        },
+        {
+            "Titulo":"Seguridad y tecnologia",
+            "Descripcion": "Desde su fundación se ha invertido en tecnología de punta, así como en la capacitación de nuestro personal.",
+            "Fecha":"2018/05/22"
+        }
+    ]
+    
+}

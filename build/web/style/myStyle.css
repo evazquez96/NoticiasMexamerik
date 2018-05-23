@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-may-2018, 16:45:47
+    Author     : Eduardo
+*/
+            
+            html,body{
+            width:99%;
+            height:99%;
+            } 
+            
+            #divGridContainer{
+                background-color:cyan;
+            }
+            
+            #divBtns{
+                display:inline-grid;
+                text-align: center;
+                height: 150px;    
+            }
+            
+            #btnDrive,#btnGmail,#btnTMS,#btnMenfis,#btnBI,#btnHo{
+                text-align:center;
+                width: 200px;
+                height: 25px;
+                
+            }
+            
+            .myIconDrive{
+                  background-image: url(../image/Drive.png);
+                  background-repeat: round;
+                  width: 25px;
+                  height: 25px;
+                  text-align: left;
+            }
+            
+            .myIconGmail{
+                  background-image: url(../image/Gmail.png);
+                  background-repeat: round;
+                  width: 25px;
+                  height: 25px;
+                  text-align: right;
+            }
+            .myIconTMS{
+                  background-image: url(../image/TMS.png);
+                  background-repeat: round;
+                  width: 25px;
+                  height: 25px;
+                  text-align: center;
+            }
+            
+            .myIconMenfis{
+                  background-image: url(../image/menfisdesk.png);
+                  background-repeat: round;
+                  width: 27px;
+                  height: 27px;
+                  text-align: center;
+            }
+            
+            .myIconBI{
+                  background-image: url(../image/BI.jpg);
+                  background-repeat: round;
+                  width: 25px;
+                  height: 25px;
+                  text-align: center;
+            }
+            .myIconHo{
+                  background-image: url(../image/Hangouts.png);
+                  background-repeat: round;
+                  width: 25px;
+                  height: 25px;
+                  text-align: center;
+            }
